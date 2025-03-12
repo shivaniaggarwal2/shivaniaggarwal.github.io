@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shivani Aggarwal | AI & Education Design</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin: 50px; background-color: #f4f4f4; }
+        .container { max-width: 800px; margin: auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); }
+        h1 { color: #333; }
+        p { font-size: 18px; color: #666; }
+        .links a { text-decoration: none; color: #0073e6; font-weight: bold; display: block; margin: 10px 0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Shivani Aggarwal</h1>
+        <p><strong>Educator | Researcher | AI & EdTech Enthusiast</strong></p>
+        <p>Welcome to my GitHub page! I am passionate about integrating AI, Machine Learning, and Universal Human Values in education to create transformative learning experiences.</p>
+        <div class="links">
+            <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
+            <a href="https://github.com/yourusername" target="_blank">GitHub</a>
+            <a href="https://yourwebsite.com" target="_blank">Personal Website</a>
+            <a href="mailto:your.email@example.com">Email Me</a>
+        </div>
+    </div>
+</body>
+</html>
